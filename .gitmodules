@@ -4,9 +4,9 @@
 [submodule "tests/vendor/qunit"]
 	path = tests/vendor/qunit
 	url = git@github.com:GerHobbelt/qunit.git
-[submodule "tests/vendor/underscore.js"]
-	path = tests/vendor/underscore.js
-	url = git@github.com:GerHobbelt/underscore.git
 [submodule "tests/vendor/jquery-mockjax"]
 	path = tests/vendor/jquery-mockjax
 	url = git@github.com:GerHobbelt/jquery-mockjax.git
+[submodule "tests/vendor/underscore.js"]
+	path = tests/vendor/underscore.js
+	url = git@github.com:GerHobbelt/underscore.git
